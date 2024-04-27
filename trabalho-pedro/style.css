@@ -1,0 +1,24 @@
+.img1{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+.height{
+    height: 50px;
+}
+.title{
+    text-align: center;
+    font-size: 21px;
+}
+.img2{
+    text-align: center;
+}
+.patrocinas{
+    display: flex;
+    justify-content:space-around;
+}
+.pc{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
